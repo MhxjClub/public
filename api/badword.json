@@ -279,6 +279,8 @@
     "hypixel.net",
     "syuu.net",
     "9wmc.xyz",
-    "miaoplanet.xyz"
+    "miaoplanet.xyz",
+    "REGEX:[1-9][0-9]{4,14}",
+    "REGEX:[a-zA-Z0-9][-a-zA-Z0-9]{0,62}(/.[a-zA-Z0-9][-a-zA-Z0-9]{0,62})+/.?"
   ]
 }
