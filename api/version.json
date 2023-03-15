@@ -1,9 +1,10 @@
 {
-    "version": 761,
-    "last-update": "2023/1/16",
-    "latest-mcversion": "1.19.3",
-    "author": "KazuhaAyato",
+    "version": 763,
+    "last-update": "2023/3/15",
+    "latest-mcversion": "1.19.4",
+    "author": "Frkovo",
     "map":[
+        {"762":"1.19.4"},
         {"761":"1.19.3"},
         {"760":"1.19.2"},
         {"759": "1.19"},
