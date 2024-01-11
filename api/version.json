@@ -1,10 +1,13 @@
 {
-    "version": 762,
-    "last-update": "2023/3/15",
-    "latest-mcversion": "1.19.4",
-    "viaver-number": "4.6.2",
+    "version": 765,
+    "last-update": "2024/1/11",
+    "latest-mcversion": "1.20.4",
+    "viaver-number": "4.9.2",
     "author": "Frkovo",
     "map":[
+        {"765":"1.20.4"},
+        {"764":"1.20.2"},
+        {"763":"1.20.1"},
         {"762":"1.19.4"},
         {"761":"1.19.3"},
         {"760":"1.19.2"},
