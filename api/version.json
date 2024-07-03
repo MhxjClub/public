@@ -1,9 +1,11 @@
 {
-  "version": 759,
-  "last-update": "2022",
-  "latest-mcversion": "1.19",
+  "version": 767,
+  "last-update": "2024.07.3",
+  "latest-mcversion": "1.21",
   "author": "KazuhaAyato",
   "map": {
+    "767": "1.21"
+    "766": "1.20.6",
     "765": "1.20.4",
     "764": "1.20.2",
     "763": "1.20.1",
